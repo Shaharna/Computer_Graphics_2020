@@ -1,0 +1,45 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.3.3f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.3.3f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=3616 outsize=63559 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=63559 outsize=139321 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=11846 outsize=2668 kw=SHADOWS_SPLIT_SPHERES pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1602 outsize=15697 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 14 at Shading.cginc(29): 'dot': no matching 2 parameter intrinsic function; Possible intrinsic functions are: dot(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM)
+  error: 2 plat 14 at Shading.cginc(29): undeclared identifier 'n'
+  api=14 insize=3767 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 14 at Shading.cginc(49): invalid subscript 'direction'
+  api=14 insize=3767 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Shading.cginc(38): use of potentially uninitialized variable (eta)
+  api=14 insize=3771 outsize=64839 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=64839 outsize=143150 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=64759 outsize=142948 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Shading.cginc(43): use of potentially uninitialized variable (eta)
+  api=14 insize=3771 outsize=65179 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=65179 outsize=143679 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Shading.cginc(43): use of potentially uninitialized variable (eta)
+  api=14 insize=3771 outsize=78027 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=78027 outsize=193595 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3771 outsize=78083 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=78083 outsize=193600 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Shading.cginc(43): use of potentially uninitialized variable (eta)
+  api=14 insize=3771 outsize=78027 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=78027 outsize=193595 ok=1
+
+Quitting shader compiler process

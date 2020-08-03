@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{EF60DD0B-C929-7A02-2069-17297F64E546}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CharacterAnimator.cs">
+    <Files>
+      <File FileName="Assets/CharacterAnimator.cs" Line="131" Column="6" />
+      <File FileName="Assets/MatrixUtils.cs" Line="57" Column="51" />
+      <File FileName="Assets/BVH/Balance.bvh.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex01_motion_tracking" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BVH" expanded="True" />
+              <Node name="CharacterAnimator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>rMatrices</Value>
+          <Value>joint.rotationOrder</Value>
+          <Value>joint.rotationChannels</Value>
+          <Value>angleDeg</Value>
+          <Value>keyframe[joint.rotationChannels.x]</Value>
+          <Value>currTime</Value>
+          <Value>data.frameLength</Value>
+          <Value>currFrame</Value>
+          <Value>data.numFrames</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="32d3a39d-aa83-4dfc-ab1f-f9b41e57d8a0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shaharna/Documents/University/computer graphics/computer_graphics_2020_huji/ex01_motion_tracking/Assets/CharacterAnimator.cs" relfile="Assets/CharacterAnimator.cs" line="120" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
